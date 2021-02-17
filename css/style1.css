@@ -44,9 +44,9 @@ ul li.active a
 }
 .L circle 
 {
-    color:red;
+    color:blue;
     fill: opacity 0.8em;
-    flood-color: red;
+    flood-color: blue;
     border-radius:30;
 }
 .footer p
